@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-08-11T10:56:46.695-0300</date>
+  <logger>JOAO BRUNO TAVARES UCHOA</logger>
+  <level>FINE</level>
+  <message>File 123210302-JOAO BRUNO TAVARES UCHOA.zip was received. It was sent by JOAO BRUNO TAVARES UCHOA from IP 192.168.0.6 at 11-08-2025 10*56*46</message>
+</record>

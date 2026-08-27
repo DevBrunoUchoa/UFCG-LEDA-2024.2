@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-06-25T08:42:01.695-0300</date>
+  <logger>JOAO BRUNO TAVARES UCHOA</logger>
+  <level>FINE</level>
+  <message>File 123210302-JOAO BRUNO TAVARES UCHOA.zip was received. It was sent by JOAO BRUNO TAVARES UCHOA from IP 150.165.42.112 at 25-06-2025 08*42*01</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-06-25T08:42:24.693-0300</date>
+  <logger>JOAO BRUNO TAVARES UCHOA</logger>
+  <level>FINE</level>
+  <message>File 123210302-JOAO BRUNO TAVARES UCHOA.zip was received. It was sent by JOAO BRUNO TAVARES UCHOA from IP 150.165.42.112 at 25-06-2025 08*42*24</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-06-27T10:59:57.785-0300</date>
+  <logger>JOAO BRUNO TAVARES UCHOA</logger>
+  <level>FINE</level>
+  <message>File 123210302-JOAO BRUNO TAVARES UCHOA.zip was received. It was sent by JOAO BRUNO TAVARES UCHOA from IP 150.165.42.209 at 27-06-2025 10*59*57</message>
+</record>
